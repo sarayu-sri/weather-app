@@ -1,0 +1,19 @@
+body {
+    background: whitesmoke;
+    background-image: linear-gradient(rgba(4, 71, 138, 0.76), white);
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    color: whitesmoke;
+}
+
+.container {
+    max-width: 400px;
+}
+
+.icon {
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
